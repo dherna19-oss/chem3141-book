@@ -25,7 +25,8 @@ parts:
       - file: content/computational_sets/Spin_one_half
       - file: content/computational_sets/two_qubit_entangled
       - file: content/computational_sets/CO_Perturbation_Theory_Quartic
-      - file: content/Newton-Raphson
+      - file: content/computational_sets/Newton-Raphson
+
   - caption: Resources
     chapters:
       - file: content/resources/formula_sheet
